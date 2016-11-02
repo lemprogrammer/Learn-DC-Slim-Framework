@@ -1,0 +1,6 @@
+# Logs
+logs
+*.log
+.idea/
+composer.phar
+vendor/
